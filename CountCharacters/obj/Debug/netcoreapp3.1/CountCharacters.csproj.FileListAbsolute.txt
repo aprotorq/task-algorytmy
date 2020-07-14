@@ -1,0 +1,13 @@
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\bin\Debug\netcoreapp3.1\CountCharacters.exe
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\bin\Debug\netcoreapp3.1\CountCharacters.deps.json
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\bin\Debug\netcoreapp3.1\CountCharacters.runtimeconfig.json
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\bin\Debug\netcoreapp3.1\CountCharacters.runtimeconfig.dev.json
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\bin\Debug\netcoreapp3.1\CountCharacters.dll
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\bin\Debug\netcoreapp3.1\CountCharacters.pdb
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.csprojAssemblyReference.cache
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.AssemblyInfoInputs.cache
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.AssemblyInfo.cs
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.dll
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.pdb
+C:\Users\Torq\source\repos\CountCharacters\CountCharacters\obj\Debug\netcoreapp3.1\CountCharacters.genruntimeconfig.cache
